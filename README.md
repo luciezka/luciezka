@@ -1,6 +1,7 @@
 - Hi, Its lucie
-- Currently employed in E-Com backend
-- official hater of JS 
+- E-Com backend Dev
+- Vintage Story Modder
+- official hater of non OOP 
 🏳️‍🌈
 <!---
 luciezka/luciezka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
